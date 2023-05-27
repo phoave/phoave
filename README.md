@@ -1,14 +1,15 @@
 <h1 align="center">こんにちは👋、私は オオスヒズ</h1>
-<h3 align="center">私は C#、C++、Python の経験豊富な開発者です。ロボット工学に関する開発を学ぶことを楽しみにしています</h3>
+<h3 align="center">私は C#、C++、Python の経験豊富な開発者です。ロボット工学に関する開発を学ぶことを楽しみにしています 私のプロジェクトに興味があると感じたら、必ずスターを付けて、フォークしてください。</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aushiz&label=Profile%20views&color=0e75b6&style=flat" alt="aushiz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aushiz" alt="aushiz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aushizus" target="blank"><img src="https://img.shields.io/twitter/follow/aushizus?logo=twitter&style=for-the-badge" alt="aushizus" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/aushizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aushizus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
