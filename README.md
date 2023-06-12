@@ -1,6 +1,5 @@
-<h1 align="center">こんにちは👋、私は オオスヒズ</h1>
-<h3 align="center">私は C#、C++、Python の経験豊富な開発者です。ロボット工学に関する開発を学ぶことを楽しみにしています 私のプロジェクトに興味があると感じたら、必ずスターを付けて、フォークしてください。</h3>
-
+<h1 align="center">Hello👋 I'm Aushiz</h1>
+<h3 align="center">I am an experienced C#, C++ and Python developer. I look forward to learning more about robotics development If you feel interested in my project, be sure to star it and fork it. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aushiz&label=Profile%20views&color=0e75b6&style=flat" alt="aushiz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aushiz" alt="aushiz" /></a> </p>
