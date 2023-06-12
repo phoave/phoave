@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 I'm Aushiz</h1>
+<h1 align="center">Hello👋 I'm Aushizu </h1>
 <h3 align="center">I am an experienced C#, C++ and Python developer. I look forward to learning more about robotics development If you feel interested in my project, be sure to star it and fork it. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aushiz&label=Profile%20views&color=0e75b6&style=flat" alt="aushiz" /> </p>
 
