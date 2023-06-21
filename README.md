@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miyofuji" alt="miyofuji" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aushizus" target="blank"><img src="https://img.shields.io/twitter/follow/miyofuji?logo=twitter&style=for-the-badge" alt="miyofuji" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aushizus" target="blank"><img src="https://img.shields.io/twitter/follow/miyofujis?logo=twitter&style=for-the-badge" alt="miyofujis" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
