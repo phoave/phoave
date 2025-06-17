@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoave" alt="phoave" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/neris_phoave" target="blank"><img src="https://img.shields.io/twitter/follow/neris_phoave?logo=twitter&style=for-the-badge" alt="neris_phoave" /></a> </p>
+<h3 align="left">Projects:</h3>
+<img src="https://github.com/user-attachments/assets/6414f299-bc45-4300-9a5f-4f8934bbb2ec" alt="Bobcos Main Capsule" width="600">
+<BR>
+<a href="https://discord.gg/SJ9JZxp4RT" target="_blank" rel="noopener noreferrer" title="Join our Discord">
+  <img src="https://github.com/user-attachments/assets/58c69ad2-2746-4b8f-afd1-d2f7095d57f8" alt="Discord" width="32" height="32">
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
